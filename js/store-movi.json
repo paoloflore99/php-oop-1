@@ -1,0 +1,17 @@
+[
+    {
+        "copertina" : "https://www.ucicinemas.it/media/movie/o/2023/oppenheimer.png",
+        "titolo" : "Oppenheimer",
+        "descrizione": "Colui che era noto come il padre della bomba atomica, dopo la fine della Seconda guerra mondiale divenne uno scienziato perseguitato, come Galileo "
+    },
+    {
+        "copertina" : "https://play-lh.googleusercontent.com/kiHauzwHq1U64eL4XbdhJG3--vGMj5hbM8O4AQVpyOEgT65BZC5MsjeZEvb4hIZDLBh8gBTSlelOPyoDlg4B",
+        "titolo" : "Fast & Furios X",
+        "descrizione": "Fast X, film diretto da Louis Leterrier, è il decimo capitolo della saga che vede Vin Diesel nei panni di Dominic Toretto. Questa volta lui e la sua famiglia sono alle prese con una rischiosa avventura, a bordo delle loro auto velocissime."
+    },
+    {
+        "copertina" : "https://www.ucicinemas.it/media/movie/imax/mission-impossible-dead-reckoning-p1/locandina-imax-882-1280-px-14.png",
+        "titolo" : "Mission: Impossible",
+        "descrizione": "Ethan Hunt (ovviamente, Tom Cruise) è un agente dell'IMF in missione con il suo team a Praga. L'obiettivo è recuperare una lista di agenti americani che rischia di cadere in mano a terroristi russi."
+    }
+]
